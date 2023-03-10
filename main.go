@@ -1,3 +1,6 @@
+// Nathan Mann
+// ntm0032
+// 11210360
 package main
 
 import (
